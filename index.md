@@ -8,8 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Articles
 
-“An Ignored Canary in an Unknown Coal Mine: The Caribbean’s Economic Engagement with China,” (with B. Murg), The Diplomat, 14 December 2020. 
+[“An Ignored Canary in an Unknown Coal Mine: The Caribbean’s Economic Engagement with China,”](https://thediplomat.com/2020/12/an-ignored-canary-in-an-unknown-coal-mine-the-caribbeans-economic-engagement-with-china/)  (with B. Murg), The Diplomat, 2020. 
 
+["Washington's Backyard: The Caribbean Amid Sino-American Competition,"](https://thediplomat.com/2020/12/washingtons-backyard-the-caribbean-amid-sino-american-competition/) (with B. Murg),The Diplomat, 2020
+
+["Sino-Cuban Relations: No 'New Cold War' in Havana,"] (https://thediplomat.com/2020/12/washingtons-backyard-the-caribbean-amid-sino-american-competition/) (with B. Murg), The Diplomat, 2020
+ 
 “The Feasibility of Using a Basic Income Approach to Address Poverty in Barbados,” (with W. Moore & S. Thompson), Central Bank of Barbados Working Paper Series 2015
 
 ### Book Chapters
