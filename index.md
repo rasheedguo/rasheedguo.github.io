@@ -25,4 +25,5 @@ _“Realist Monetary Policy Towards De-Dollarization,”_ (with L. Samnang), Cha
 
 ### My Contact Info
 
-You can get a hold of my via my email hello@rasheedjg.me or you can message me directly on Twitter [@rasheedguo](https://twitter.com/rasheedguo). 你也可以在微信上加我 _rasheedguo_
+You can get a hold of my via my email hello@rasheedjg.me or you can message me directly on Twitter [@rasheedguo](https://twitter.com/rasheedguo). 
+你也可以在微信上加我 _rasheedguo_
