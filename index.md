@@ -29,4 +29,4 @@ You can get a hold of my via my email hello@rasheedjg.me or you can message me d
 
 你也可以在微信上加我 _rasheedguo_.
 
-![Image description](https://github.com/rasheedguo/rasheedguo.github.io/issues/1#issue-793583022)
+![Image](https://github.com/rasheedguo/rasheedguo.github.io/issues/1#issue-793583022)
