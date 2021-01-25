@@ -1,6 +1,6 @@
 ## Rasheed Griffith 郭人庆 
 
-I'm an independent researcher with a background in Philosophy, Economics, Music, the Caribbean, Southeast Asia, and China. 我的普通话水平足以讨论中国的反洗钱法和加密货币行业。
+I'm an independent researcher with a background in Philosophy, Economics, and Music. Recently I've been focused on Chinese foreign policy in the Caribbean and Latin America, Monetary Policy in the Mekong region, and the "blockchain indutry" in China. 我的普通话水平足以讨论中国的反洗钱法和加密货币行业。
 
 ## Podcast 
 I host a podcast called [China in the Caribbean](https://podcasts.apple.com/ca/podcast/china-in-the-caribbean/id1537137302) about the growing social, economic, and political relationship between China and the Caribbean. 在不久的将来，我计划用普通话进行面试。
@@ -25,4 +25,4 @@ _“Realist Monetary Policy Towards De-Dollarization,”_ (with L. Samnang), Cha
 
 ### My Contact Info
 
-You can get a hold of my via my email _hello@rasheedjg.me_ or you can message me directly on Twitter [@rasheedguo](https://twitter.com/rasheedguo). 你也可以在微信上加我:_rasheedguo_
+You can get a hold of my via my email hello@rasheedjg.me or you can message me directly on Twitter [@rasheedguo](https://twitter.com/rasheedguo). 你也可以在微信上加我 :_rasheedguo_
