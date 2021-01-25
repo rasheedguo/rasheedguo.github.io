@@ -1,12 +1,20 @@
-## Rasheed Griffith 
+## Rasheed Griffith 郭人庆 
 
 You can use the [editor on GitHub](https://github.com/rasheedguo/rasheedguo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Articles
+
+“An Ignored Canary in an Unknown Coal Mine: The Caribbean’s Economic Engagement with China,” (with B. Murg), The Diplomat, 14 December 2020. 
+
+“The Feasibility of Using a Basic Income Approach to Address Poverty in Barbados,” (with W. Moore & S. Thompson), Central Bank of Barbados Working Paper Series 2015
+
+### Book Chapters
+
+“Realist Monetary Policy Towards De-Dollarization,” (with L. Samnang), Chapter 7 in an edited volume by Deth, S. U., Murg, B., Ou, V., & Renfrew, M., entitled Cambodia 2040: International Relations and Governance, (KAS), December 2020
 
 ```markdown
 Syntax highlighted code block
