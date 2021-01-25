@@ -1,6 +1,6 @@
 ## Rasheed Griffith 郭人庆 
 
-I'm an independent researcher with a background in Philosophy of Science and Information, Economics, AML/CFT, and Blackchain/Cryptocurrency Regulation. Recently my writing has been focused on Chinese foreign policy in the Caribbean and Latin America and Monetary Policy in the Mekong region. 我的普通话水平足以讨论中国的反洗钱法和加密货币行业。
+I'm an independent researcher with a background in Economics, FinTech Regulation, and Philosophy. Recently my writing has been focused on Chinese geoeconomic engagement in the Caribbean and Monetary Policy in the Mekong region. 我的普通话水平足以讨论中国的反洗钱法和加密货币行业。
 
 ## Podcast 
 I host a podcast called [China in the Caribbean](https://podcasts.apple.com/ca/podcast/china-in-the-caribbean/id1537137302) about the growing social, economic, and political relationship between China and the Caribbean. 在不久的将来，我计划用普通话进行面试。
